@@ -1,7 +1,7 @@
 {
-  "name": "react-websocket-client",
+  "name": "socket-chat-client",
   "version": "1.0.0",
-  "description": "React app that allows users to generate shortened URLs",
+  "description": "React app that allows users to talk between sessions.",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
